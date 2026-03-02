@@ -18,3 +18,8 @@ Simple desktop app to organize pictures and videos by year and month.
 ## Notes
 - The app only moves files you select
 - Windows may show a security warning because the app is unsigned
+
+## Antivirus Notice
+This application is unsigned and may trigger false positives in some antivirus engines.
+It does not collect data, access the internet, or install persistence mechanisms.
+Source code is provided for transparency.
